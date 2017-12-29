@@ -1,1 +1,1 @@
-# ders
+# Sosyal medya akış modülü
