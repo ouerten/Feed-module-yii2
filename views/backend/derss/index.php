@@ -7,7 +7,7 @@ use yii\grid\GridView;
 /* @var $searchModel kouosl\ders\models\DerssSearch */
 /* @var $dataProvider yii\data\ActiveDataProvider */
 
-$this->title = 'Dersses';
+$this->title = 'Derss';
 $this->params['breadcrumbs'][] = $this->title;
 ?>
 <div class="derss-index">
